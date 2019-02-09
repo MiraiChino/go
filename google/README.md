@@ -224,7 +224,7 @@ Goだと、簡単にマイクロサービスがつくれる
   ``` go
   [Web 95 result for "a" 0 ms
    Image 72 result for "a" 0 ms
-   Image 14 result for "a" 1 ms
+   Videos 14 result for "a" 1 ms
   ]
   1.791093ms
   ```

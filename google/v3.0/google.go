@@ -10,7 +10,7 @@ import (
 var (
 	Webs   = replicas("Web", 100)
 	Images = replicas("Image", 100)
-	Videos = replicas("Image", 100)
+	Videos = replicas("Video", 100)
 )
 
 func replicas(kind string, n int) (replicas []Search) {
